@@ -1,0 +1,9 @@
+# Folders
+.venv/
+storage/
+data/
+__pycache__/
+
+# Private
+.env
+
